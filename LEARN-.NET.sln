@@ -1,0 +1,74 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2393C7C6-F244-42C1-955C-59749CAE01E4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Topics", "01.Topics", "{F9FFEBCB-3C33-4F85-A0EF-71500543F1A2}"
+	ProjectSection(SolutionItems) = preProject
+		01.Topics\Topics.xlsx = 01.Topics\Topics.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Git and GitHub", "02.Git and GitHub", "{59B983B7-DCB8-451C-812F-F9D2E8138EC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.PDF", "01.PDF", "{8225ACED-8665-42D2-BB09-7EE5E54E8F6D}"
+	ProjectSection(SolutionItems) = preProject
+		02.Git and GitHub\01.PDF\01.SCM, Git, and GitHub Explained.pdf = 02.Git and GitHub\01.PDF\01.SCM, Git, and GitHub Explained.pdf
+		02.Git and GitHub\01.PDF\02.Installing GitHub.pdf = 02.Git and GitHub\01.PDF\02.Installing GitHub.pdf
+		02.Git and GitHub\01.PDF\03.creating Localrepo.pdf = 02.Git and GitHub\01.PDF\03.creating Localrepo.pdf
+		02.Git and GitHub\01.PDF\04.core_git_concepts.pdf = 02.Git and GitHub\01.PDF\04.core_git_concepts.pdf
+		02.Git and GitHub\01.PDF\05.branching_for_asp_net_core_develo.pdf = 02.Git and GitHub\01.PDF\05.branching_for_asp_net_core_develo.pdf
+		02.Git and GitHub\01.PDF\06.git_commit_best_practices.pdf = 02.Git and GitHub\01.PDF\06.git_commit_best_practices.pdf
+		02.Git and GitHub\01.PDF\07.merging_resolving_conflicts.pdf = 02.Git and GitHub\01.PDF\07.merging_resolving_conflicts.pdf
+		02.Git and GitHub\01.PDF\08.working_with_github_remote_reposi.pdf = 02.Git and GitHub\01.PDF\08.working_with_github_remote_reposi.pdf
+		02.Git and GitHub\01.PDF\09.how_git_and_github_work_together.pdf = 02.Git and GitHub\01.PDF\09.how_git_and_github_work_together.pdf
+		02.Git and GitHub\01.PDF\10.git_revert_vs_git_reset.pdf = 02.Git and GitHub\01.PDF\10.git_revert_vs_git_reset.pdf
+		02.Git and GitHub\01.PDF\11.git_logs_history.pdf = 02.Git and GitHub\01.PDF\11.git_logs_history.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.IMAGES", "02.IMAGES", "{B6DBEB74-AC3F-40C5-8CDD-93148DA97BF3}"
+	ProjectSection(SolutionItems) = preProject
+		02.Git and GitHub\02.IMAGES\01.What is SCM.png = 02.Git and GitHub\02.IMAGES\01.What is SCM.png
+		02.Git and GitHub\02.IMAGES\02.ASP.NET Core Git Repository Guide.png = 02.Git and GitHub\02.IMAGES\02.ASP.NET Core Git Repository Guide.png
+		02.Git and GitHub\02.IMAGES\3,Git Commands Cheat Sheet Infographic.png = 02.Git and GitHub\02.IMAGES\3,Git Commands Cheat Sheet Infographic.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.CICD Pipelines in .NET", "03.CICD Pipelines in .NET", "{91C20120-246F-4365-882A-52D27C1E0CE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.PDF", "01.PDF", "{CC32BE41-D694-4B0E-8968-C9501D8774D1}"
+	ProjectSection(SolutionItems) = preProject
+		03.CICD Pipelines in .NET\01.PDF\01.introduction_to_cicd_pipelines_in.pdf = 03.CICD Pipelines in .NET\01.PDF\01.introduction_to_cicd_pipelines_in.pdf
+		03.CICD Pipelines in .NET\01.PDF\02.preparing_the_asp_net_core_web_ap.pdf = 03.CICD Pipelines in .NET\01.PDF\02.preparing_the_asp_net_core_web_ap.pdf
+		03.CICD Pipelines in .NET\01.PDF\03.building_continuous_integration_p.pdf = 03.CICD Pipelines in .NET\01.PDF\03.building_continuous_integration_p.pdf
+		03.CICD Pipelines in .NET\01.PDF\04.managing_secrets_and_configuratio.pdf = 03.CICD Pipelines in .NET\01.PDF\04.managing_secrets_and_configuratio.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.IMAGES", "02.IMAGES", "{4B7B5C57-8015-4C7C-A2FE-7CF3FF03C516}"
+	ProjectSection(SolutionItems) = preProject
+		03.CICD Pipelines in .NET\02.IMAGES\01.CI_CD Pipelines in .NET Infographic.png = 03.CICD Pipelines in .NET\02.IMAGES\01.CI_CD Pipelines in .NET Infographic.png
+		03.CICD Pipelines in .NET\02.IMAGES\02.NET CI_CD_ Manual vs Automated Development.png = 03.CICD Pipelines in .NET\02.IMAGES\02.NET CI_CD_ Manual vs Automated Development.png
+		03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (1).png = 03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (1).png
+		03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (2).png = 03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (2).png
+		03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (3).png = 03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (3).png
+		03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (4).png = 03.CICD Pipelines in .NET\02.IMAGES\03.GitHubActions (4).png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8225ACED-8665-42D2-BB09-7EE5E54E8F6D} = {59B983B7-DCB8-451C-812F-F9D2E8138EC0}
+		{B6DBEB74-AC3F-40C5-8CDD-93148DA97BF3} = {59B983B7-DCB8-451C-812F-F9D2E8138EC0}
+		{CC32BE41-D694-4B0E-8968-C9501D8774D1} = {91C20120-246F-4365-882A-52D27C1E0CE2}
+		{4B7B5C57-8015-4C7C-A2FE-7CF3FF03C516} = {91C20120-246F-4365-882A-52D27C1E0CE2}
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
